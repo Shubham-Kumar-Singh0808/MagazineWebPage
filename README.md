@@ -1,5 +1,5 @@
 # Online Magazine Page
-# Project Description<br>
+## Project Description<br>
 The Online Magazine Page is a web project that aims to create a visually appealing and interactive platform for sharing articles, news, and multimedia content. The project utilizes HTML, CSS, Bootstrap, and JavaScript to deliver a seamless and engaging reading experience for users.
 
 The frontend of the Online Magazine Page is developed using HTML, the standard markup language for creating web pages. HTML provides the foundation for structuring the content, ensuring proper hierarchy and semantics. With HTML, the magazine page can be divided into sections, such as the header, main content area, sidebar, and footer, facilitating easy navigation and readability.
@@ -25,3 +25,4 @@ JavaScript is incorporated into the project to introduce interactivity and dynam
 The Online Magazine Page offers a range of features and sections typically found in an online publication. These may include a featured article carousel, trending articles section, categories or topics navigation, social media integration, commenting functionality, and a newsletter subscription form. These features are implemented using a combination of HTML, CSS, Bootstrap, and JavaScript, resulting in an engaging and immersive reading experience.
 
 In summary, the Online Magazine Page is a web project that showcases articles, news, and multimedia content within an aesthetically pleasing and user-friendly interface. The combination of HTML, CSS, Bootstrap, and JavaScript allows for the creation of a responsive and interactive layout. With a variety of features and sections, the magazine page provides an enjoyable and immersive experience for readers. This project is suitable for developers looking to create an online magazine or publication with a modern and visually appealing design using popular web technologies.
+![1 Task Image](https://github.com/Shubham-Kumar-Singh0808/OnlineMagazinePage/assets/111346659/4b0e6da7-1bad-425e-87d8-695c5f98413e)
